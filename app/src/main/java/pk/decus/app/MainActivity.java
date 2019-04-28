@@ -18,7 +18,7 @@ public class MainActivity extends Activity implements AdvancedWebView.Listener {
     
     private AdvancedWebView mWebView;
     private Utils utils;
-    private String url = "https://www.decus.pk";
+    private String url = "http://www.wheelmartshop.com";
     private ProgressDialog progressBar;
     
     @Override
